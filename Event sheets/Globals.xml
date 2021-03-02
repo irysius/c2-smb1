@@ -17,7 +17,7 @@
         <variable constant="0" name="StartPage" sid="2740488736697931" static="0" type="number">0</variable>
         <variable constant="0" name="Hardmode" sid="3082278831138935" static="0" type="number">0</variable>
         <variable constant="0" name="MarioForm" sid="8884499589230023" static="0" type="number">0</variable>
-        <variable constant="0" name="Lives" sid="2325229655057187" static="0" type="number">3</variable>
+        <variable constant="0" name="Lives" sid="2325229655057187" static="0" type="number">99</variable>
         <variable constant="0" name="Score" sid="819641098078541" static="0" type="number">0</variable>
         <variable constant="0" name="Coins" sid="4005786257457987" static="0" type="number">0</variable>
         <variable constant="0" name="Timer" sid="6073065386778028" static="0" type="number">-1</variable>
